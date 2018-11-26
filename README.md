@@ -11,3 +11,5 @@ Cross chain interoperability provides an immediate scaling solution today, as we
 
 On the path of implementation, GoWithMi will give priority to developing countries such as Southeast Asia, South Asia, and Africa, where 4 billion people are in desperate need of more equitable basic location services. Currently, GoWithMi service has reached the world's fourth largest populous country, Indonesia, and will soon cover major Southeast Asian countries. Based on this, it will cover the whole world and accelerate the coverage of the global Blockchain to the real economy. 
 
+------------
+To learn more about GoWithMi, please read the [White Paper](https://www.gowithmi.com/whitepaper/ "White Paper")
